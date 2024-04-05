@@ -1,1 +1,4 @@
-# neoTCH_1.3
+# sheer-contact
+
+Soft sensors, Trash World
+https://tanvimishra.github.io/sheer-contact/
